@@ -1,5 +1,6 @@
 public class datatypea3{
 	public static void main(String[] args) {
+		//comment
 		Float a; int b; String c;
 		a=12.5f;
 		b=10;
